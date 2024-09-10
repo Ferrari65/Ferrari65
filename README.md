@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 
 -->
-<div align="center">
-  <img height="197" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ5aGJ4bXo0MjhraW1obmVsb3hyaXZoNW5qN2VybDlrOWgzM2JtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SHF5dpGlltj4bwqFY/giphy.gif"  />
+<div align="left">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ5aGJ4bXo0MjhraW1obmVsb3hyaXZoNW5qN2VybDlrOWgzM2JtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SHF5dpGlltj4bwqFY/giphy.webp"  />
 </div>
 
 ###
 
-<h1 align="left">Stats</h1>
+<h1 align="left">Stats 🍂🥧</h1>
 
 ###
 
