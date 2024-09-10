@@ -1,13 +1,11 @@
-### Seja Bem vindo !! 🍂🥧
+<img src="https://readme-typing-svg.herokuapp.com?size=25&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasmin+Ferrari.;This+is+My+Profile+Website.🦊;">
 
-<!--
-**Ferrari65/Ferrari65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">My name is Yasmin Ferrari, and my journey in programming began in 2019. I started with a professional course that provided me with a solid foundation and ignited a deep passion for the field.<br><br>Since then, I have been dedicated to expanding my knowledge through various specialized courses and training. I am constantly seeking new opportunities to learn and apply emerging technologies, enhance my skills, and contribute to challenging projects.<br><br>Whether it’s developing new applications, exploring programming languages, or working on collaborative projects, I’m always excited to take on new challenges and grow as a developer.</p>
 
-Here are some ideas to get you started:
+###
 
--->
-<div align="left">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ5aGJ4bXo0MjhraW1obmVsb3hyaXZoNW5qN2VybDlrOWgzM2JtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SHF5dpGlltj4bwqFY/giphy.webp"  />
+<div align="center">
+  <img height="185" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6aHh5NTJ2cG1rdnM3MDdvZmcxcDk2a2Fsc2h3enVnMm44MzVnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp"  />
 </div>
 
 ###
@@ -25,11 +23,11 @@ Here are some ideas to get you started:
 
 ###
 
+📊 Estatísticas
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferrari65&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
 
 ## 🦊 Linguagens Trabalhadas 🍂🥧 . . .
 
