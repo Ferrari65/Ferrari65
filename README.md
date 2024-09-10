@@ -23,7 +23,8 @@
 
 ###
 
-📊 Estatísticas
+<h1 align="left">📊 Graphic</h1>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferrari65&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
