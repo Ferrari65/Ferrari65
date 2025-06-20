@@ -1,13 +1,9 @@
 name: Generate Snake
 
-# Quando executar
 on:
-  # A cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  # Manualmente
   workflow_dispatch:
-  # Quando fizer push na main
   push:
     branches: [ main ]
 
@@ -16,31 +12,24 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
-    # Permissões necessárias
     permissions:
       contents: write
-      pages: write
-      id-token: write
     
     steps:
-      # 1. Fazer checkout do repositório
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      # 2. Gerar o snake com cores personalizadas
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ferrari65
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&bg_color=0d1117&grid_color=21262d&dot_color_1=FFCB05&dot_color_2=F59E0B&dot_color_3=FDE047&dot_color_4=FACC15&snake_color=FFCB05
+            dist/github-snake-dark.svg?palette=github-dark&bg_color=0d1117&snake_color=FFCB05
 
-      # 3. Fazer deploy para branch output
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          force_orphan: true
