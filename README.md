@@ -131,8 +131,27 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
 </div>
+
+<!-- Outros temas disponíveis (escolha um):
+
+TEMA CLARO E ELEGANTE:
+<img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+
+TEMA DOURADO:
+<img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=buddhism&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+
+TEMA RADICAL ROSA:
+<img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+
+TEMA MINIMALISTA:
+<img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+
+TEMA GITHUB OFICIAL:
+<img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=github&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+
+-->
 
 ---
 
