@@ -1,22 +1,16 @@
 # Olá! Eu sou Yasmin Ferrari 👋
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif)" width="50">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia;Sempre+buscando+evoluir;Criando+soluções+inovadoras" alt="Typing SVG" />
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif)" width="50">
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding" />
-</div>
 
 ---
 
 ## Sobre mim
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
+<img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif" width="300" alt="Coding GIF"/>
 
 Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e práticas de mercado. Minha jornada começou em 2019 e desde então tenho me especializado através de múltiplas certificações em desenvolvimento, cloud computing e metodologias ágeis.
 
