@@ -1,10 +1,11 @@
 # Olá! Eu sou Yasmin Ferrari 👋
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif)" width="50">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia;Sempre+buscando+evoluir;Criando+soluções+inovadoras" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif)" width="50">
 </div>
 
 <div align="center">
