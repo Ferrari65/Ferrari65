@@ -6,8 +6,6 @@
 
 ---
 
-## Sobre mim
-
 <img align="right" src="./img/neurocats_D.png" width="300" alt="Octocat"/>
 
 Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e práticas de mercado. Minha jornada começou em 2019 e desde então tenho me especializado através de múltiplas certificações em desenvolvimento, cloud computing e metodologias ágeis.
@@ -140,14 +138,35 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🏆 Principais Conquistas
+<div align="flex-start">
+
+🥇 **25+ Certificações** - Alura, Udemy, AWS, SENAI  
+🥈 **234 Contribuições** - Ativo no último ano  
+🥉 **Especialista AWS** - EC2, VPC, DynamoDB, Lightsail  
+🏅 **Metodologias Ágeis** - Scrum, Microservices, CI/CD  
+🎯 **Segurança & QA** - Cybersecurity, Quality Assurance  
+⭐ **Full Stack** - Frontend, Backend, Cloud, Data Analytics  
+
+</div>
+
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+</div>
+<br>
+
+
+---
+
+## 📊 Estatísticas Gerais do GitHub
 
 <div align="center">
   <a href="https://github.com/Ferrari65">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&icon_color=F59E0B&text_color=E2E8F0&border_color=FFCB05&custom_title=📊+Estatísticas+do+GitHub" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&icon_color=F59E0B&text_color=E2E8F0&border_color=FFCB05&custom_title=+Estatísticas+do+GitHub" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Ferrari65">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05&custom_title=💻+Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05&custom_title=+Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
   </a>
 </div>
 
@@ -159,6 +178,16 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 - Ativo em **32+ repositórios**
 
 ---
+<br> 📞 Contato </br>
+
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-pereira-ferrari-42ba22317/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasmin-ferrari.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmin.ferrari365@email.com)
+
+</div>
 
 ## 🐍 Contribuições
 
@@ -168,39 +197,9 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 
 ---
 
-## 🏆 Conquistas
-<div align="flex-start">
-  
-### 🌟 **Principais Marcos**
-
-🥇 **25+ Certificações** - Alura, Udemy, AWS, SENAI  
-🥈 **234 Contribuições** - Ativo no último ano  
-🥉 **Especialista AWS** - EC2, VPC, DynamoDB, Lightsail  
-🏅 **Metodologias Ágeis** - Scrum, Microservices, CI/CD  
-🎯 **Segurança & QA** - Cybersecurity, Quality Assurance  
-⭐ **Full Stack** - Frontend, Backend, Cloud, Data Analytics  
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📞 Contato
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-pereira-ferrari-42ba22317/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasmin-ferrari.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmin.ferrari@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasmin_ferrari)
-
-</div>
-
----
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ferrari65&style=for-the-badge&color=FFCB05" alt="Profile Views" />
 </div>
+
+
 
