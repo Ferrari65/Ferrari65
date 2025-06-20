@@ -20,14 +20,15 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
 
-Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes e inovadoras. Minha jornada na programação começou em 2019 e desde então tenho me dedicado a expandir meus conhecimentos através de cursos especializados e projetos desafiadores.
+Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e práticas de mercado. Minha jornada começou em 2019 e desde então tenho me especializado através de múltiplas certificações em desenvolvimento, cloud computing e metodologias ágeis.
 
-- 🔭 Atualmente trabalhando em projetos web modernos
-- 🌱 Constantemente aprendendo novas tecnologias e frameworks
-- 👯 Interessada em colaborar em projetos open source
-- 💬 Especialidades: JavaScript, TypeScript, React, Node.js
-- 📫 Contato: yasmin.ferrari@email.com
-- ⚡ Sempre animada para novos desafios e oportunidades de crescimento
+- 🔭 **Especialista em** desenvolvimento web moderno e arquitetura de software
+- 🌱 **Certificações em** AWS, Microservices, Scrum, Cybersecurity e mais
+- 👯 **Experiência com** projetos educacionais e sistemas hospitalares
+- 💬 **Competências:** JavaScript/TypeScript, React, Node.js, AWS, Kotlin
+- 🏆 **25+ Certificações** profissionais em tecnologia
+- 📫 **Contato:** yasmin.ferrari@email.com
+- ⚡ **Sempre** explorando novas tecnologias e metodologias
 
 <br clear="right"/>
 
@@ -36,22 +37,43 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
 ## Stack Tecnológica
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Ferramentas
+### Metodologias & Frameworks
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
+
+### Cloud & Infraestrutura
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Lightsail](https://img.shields.io/badge/Amazon%20Lightsail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Dados & Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+### Segurança & Qualidade
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Ferramentas & GIS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2F5F8F?style=for-the-badge&logo=arcgis&logoColor=white)
+![WebGIS](https://img.shields.io/badge/WebGIS-2F5F8F?style=for-the-badge&logo=esri&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -121,12 +143,12 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
   
 ### 🌟 **Principais Marcos**
 
-🥇 **234 Contribuições** - Ativo no último ano  
-🥈 **32+ Repositórios** - Projetos diversos  
-🥉 **91% Commits** - Foco em desenvolvimento  
-🏅 **Programadora** desde 2019  
-🎯 **Projetos Educacionais** - SenaiHospital & PlataformaEdu  
-⭐ **Consistência** - Commits regulares  
+🥇 **25+ Certificações** - Alura, Udemy, AWS, SENAI  
+🥈 **234 Contribuições** - Ativo no último ano  
+🥉 **Especialista AWS** - EC2, VPC, DynamoDB, Lightsail  
+🏅 **Metodologias Ágeis** - Scrum, Microservices, CI/CD  
+🎯 **Segurança & QA** - Cybersecurity, Quality Assurance  
+⭐ **Full Stack** - Frontend, Backend, Cloud, Data Analytics  
 
 </div>
 
