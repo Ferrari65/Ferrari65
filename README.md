@@ -163,9 +163,8 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
----
 
 ## 🚀 Projetos em Destaque
 
