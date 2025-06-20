@@ -1,7 +1,7 @@
 # Olá! Eu sou Yasmin Ferrari 👋
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif" height="20" width="100%">
 </div>
 
 <div align="center">
