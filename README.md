@@ -166,30 +166,10 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
   <img src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Rocket"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ferrari65/SenaiHospital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferrari65&repo=SenaiHospital&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05" alt="SenaiHospital" />
-  </a>
-  <a href="https://github.com/Ferrari65/PlataformaEdu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferrari65&repo=PlataformaEdu&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05" alt="PlataformaEdu" />
-  </a>
-</div>
-
 ---
 
 ## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="100" alt="Trophy"/>
-</div>
-
-<div align="center">
+<div align="flex-start">
   
 ### 🌟 **Principais Marcos**
 
@@ -211,12 +191,8 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 ## 📞 Contato
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iHLHH9rVBv0kmkETqz/giphy.gif" width="200" />
-</div>
-
-<div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmin-ferrari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-pereira-ferrari-42ba22317/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasmin-ferrari.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmin.ferrari@email.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasmin_ferrari)
@@ -224,19 +200,7 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>Adoraria me conectar com você!</b> 😊</em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ferrari65&style=for-the-badge&color=FFCB05" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-  <br>
-  <sub>💛 Desenvolvido com paixão por Yasmin Ferrari</sub>
-</div>
