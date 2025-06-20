@@ -111,10 +111,27 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
 
 ---
 
-## Conquistas
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="100" alt="Trophy"/>
+</div>
+
+<div align="center">
+  
+### 🌟 **Principais Marcos**
+
+🥇 **234 Contribuições** - Ativo no último ano  
+🥈 **32+ Repositórios** - Projetos diversos  
+🥉 **91% Commits** - Foco em desenvolvimento  
+🏅 **Programadora** desde 2019  
+🎯 **Projetos Educacionais** - SenaiHospital & PlataformaEdu  
+⭐ **Consistência** - Commits regulares  
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
 </div>
 
 ---
