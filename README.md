@@ -1,12 +1,24 @@
 # Olá! Eu sou Yasmin Ferrari 👋
 
 <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia;Sempre+buscando+evoluir;Criando+soluções+inovadoras" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding" />
 </div>
 
 ---
 
 ## Sobre mim
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
 
 Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes e inovadoras. Minha jornada na programação começou em 2019 e desde então tenho me dedicado a expandir meus conhecimentos através de cursos especializados e projetos desafiadores.
 
@@ -16,6 +28,8 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
 - 💬 Especialidades: JavaScript, TypeScript, React, Node.js
 - 📫 Contato: yasmin.ferrari@email.com
 - ⚡ Sempre animada para novos desafios e oportunidades de crescimento
+
+<br clear="right"/>
 
 ---
 
@@ -46,6 +60,10 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
 ## Estatísticas GitHub
 
 <div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Stats"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=E6EDF3" alt="GitHub Stats" />
 </div>
 
@@ -57,11 +75,20 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferrari65&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=E6EDF3" alt="GitHub Streak" />
 </div>
 
+### 📊 Destaques de 2024-2025
+- **234 contribuições** no último ano
+- **91% commits** na atividade
+- **9% pull requests e issues**
+- Contribuições consistentes especialmente em **Maio-Junho**
+- Ativo em **32+ repositórios** incluindo projetos como SenaiHospital e PlataformaEdu
+
 ---
 
 ## Contribuições
 
 <div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" alt="Coding Snake"/>
+  <br>
   <img src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
@@ -70,11 +97,15 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
 ## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/Ferrari65/projeto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferrari65&repo=projeto1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=E6EDF3" alt="Projeto 1" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Rocket"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Ferrari65/SenaiHospital">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferrari65&repo=SenaiHospital&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=E6EDF3" alt="SenaiHospital" />
   </a>
-  <a href="https://github.com/Ferrari65/projeto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferrari65&repo=projeto2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=E6EDF3" alt="Projeto 2" />
+  <a href="https://github.com/Ferrari65/PlataformaEdu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferrari65&repo=PlataformaEdu&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=E6EDF3" alt="PlataformaEdu" />
   </a>
 </div>
 
@@ -102,9 +133,17 @@ Desenvolvedora apaixonada por tecnologia com foco em criar soluções eficientes
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>Adoraria me conectar com você!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ferrari65&style=for-the-badge&color=2563EB" alt="Profile Views" />
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <br>
   <sub>💙 Desenvolvido com paixão por Yasmin Ferrari</sub>
 </div>
