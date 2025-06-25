@@ -152,7 +152,7 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commits,Repositories,PullRequest" />
 </div>
 <br>
 
