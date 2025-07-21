@@ -189,7 +189,7 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 
 </div>
 
-## 🟡 Contribuições 
+##  Contribuições 
 
 <div align="center">
 <picture>
