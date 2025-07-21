@@ -189,10 +189,14 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 
 </div>
 
-## 🐍 Contribuições
+## 🟡 Contribuições 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribuição gráfico" src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
