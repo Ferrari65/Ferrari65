@@ -192,11 +192,13 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 ## 🟡 Contribuições 
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribuição gráfico" src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </div>
 
 ---
