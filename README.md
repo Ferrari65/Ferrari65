@@ -1,184 +1,161 @@
-# Olá! Eu sou Yasmin Ferrari 👋
+# Hello! I'm Yasmin Ferrari 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=28&pause=1000&color=FFCB05&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia;Sempre+buscando+evoluir;Criando+soluções+inovadoras" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=28&pause=1000&color=FFCB05&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+technology;Always+evolving;Creating+innovative+solutions" alt="Typing SVG" />
 </div>
 
 ---
 
 <img align="right" src="./img/neurocats_D.png" width="300" alt="Octocat"/>
 
-Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e práticas de mercado. Minha jornada começou em 2019 e desde então tenho me especializado através de múltiplas certificações em desenvolvimento, cloud computing e metodologias ágeis.
+Full Stack Developer with strong expertise in modern technologies and market-driven practices. I hold multiple certifications in development, cloud computing, cybersecurity, and agile methodologies.  
+Currently pursuing a degree in **Systems Analysis and Development at Uninter**, constantly expanding my technical and strategic foundation.
 
-- 🔭 **Especialista em** desenvolvimento web moderno e arquitetura de software
-- 🌱 **Certificações em** AWS, Microservices, Scrum, Cybersecurity e mais
-- 🧑‍💻 **Experiência com** projetos educacionais, sistemas hospitalares e apps de Geolocalização
-- 💬 **Competências:** JavaScript/TypeScript, React, Node.js, AWS, Kotlin etc.
-- 🏆 **25+ Certificações** profissionais em tecnologia
-- ⚡ **Sempre** explorando novas tecnologias e metodologias
+- 🔭 **Specialized in** modern web development and software architecture  
+- 🌱 **Certified in** AWS, Microservices, Scrum, Cybersecurity, and more  
+- 🧑‍💻 **Experience with** educational platforms, healthcare systems, and geolocation-based apps  
+- 💬 **Skills:** JavaScript/TypeScript, React, Node.js, AWS, Kotlin, etc.  
+- ⚡ **Always** exploring new technologies and methodologies  
+- 🎓 **Academic Background:** Systems Analysis and Development – Uninter (in progress)
 
 <br clear="right"/>
 
 ---
-## 💼 Stack Tecnológica
 
-<table width="100%">
-<tr>
-<td width="50%">
+## 🏆 Professional Highlights
 
-<div align="center">
+<div align="flex-start">
 
-### 🎨 **Frontend**
+🥇 **2nd Place – Grand Prix SENAI Innovation 2024**  
+Latin American competition in the **Industry 4.0** category with the project **EITRIZ!**, an industrial virtual assistant powered by AI.  
+In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Alexandre Gomes, we developed a solution capable of:
+- 📊 Generating production charts for smart monitoring
+- 🧠 Providing interactive training guided by AI
+- 🔎 Answering company-related queries using natural language
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 🚀 **Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+🥈 **234+ Contributions** – Active GitHub engagement over the past year  
+🥉 **25+ Certifications** – Alura, Udemy, AWS, SENAI  
+🏅 **AWS Expertise** – EC2, VPC, DynamoDB, Lightsail  
+🎯 **Agile Methodologies** – Scrum, Microservices, CI/CD  
+⭐ **Full Stack Focus** – Frontend, Backend, Cloud, Data Analytics  
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-<div align="center">
+## 🧩 Tech Stack
 
-### 🔄 **Metodologias**
+<table width="100%" align="center">
 
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
+  <!-- FRONTEND -->
+  <tr>
+    <td align="center">
+      <div align="left"><h3>Frontend</h3></div>
+      <img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+  </tr>
 
-</div>
+  <!-- BACKEND -->
+  <tr>
+    <td align="center">
+      <div align="left"><h3>Backend & APIs</h3></div>
+      <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-9966CC?style=for-the-badge&logo=kotlin&logoColor=white" />
+    </td>
+  </tr>
 
-</td>
-<td width="50%">
+  <!-- METHODOLOGIES -->
+  <tr>
+    <td align="center">
+      <div align="left"><h3>Methodologies</h3></div>
+      <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microservices-6C3483?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
 
-<div align="center">
+  <!-- CLOUD -->
+  <tr>
+    <td align="center">
+      <div align="left"><h3>Cloud & DevOps</h3></div>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/EC2-F1600D?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+      <img src="https://img.shields.io/badge/VPC-F78C1F?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lightsail-FEBE10?style=for-the-badge&logo=amazonaws&logoColor=black" />
+    </td>
+  </tr>
 
-### ☁️ **Cloud & Infraestrutura**
+  <!-- DATA & ANALYTICS -->
+  <tr>
+    <td align="center">
+      <div align="left"><h3>Data & Analytics</h3></div>
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/DynamoDB-2D72D9?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+    </td>
+  </tr>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon Lightsail](https://img.shields.io/badge/Amazon%20Lightsail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  <!-- SECURITY -->
+  <tr>
+    <td align="center">
+      <div align="left"><h3>Security & Quality</h3></div>
+      <img src="https://img.shields.io/badge/Cybersecurity-A80000?style=for-the-badge&logo=fortinet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Quality%20Assurance-0F9D58?style=for-the-badge&logo=checkmarx&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-2684FF?style=for-the-badge&logo=gitlab&logoColor=white" />
+    </td>
+  </tr>
 
-</div>
+  <!-- TOOLS -->
+  <tr>
+    <td align="center">
+      <div align="left"><h3>Tools & GIS</h3></div>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArcGIS-087B84?style=for-the-badge&logo=arcgis&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebGIS-1F6F8B?style=for-the-badge&logo=esri&logoColor=white" />
+    </td>
+  </tr>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-### 📊 **Dados & Analytics**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 🔒 **Segurança & Qualidade**
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
-![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge&logo=gitlab&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<div align="center">
-
-### 🛠️ **Ferramentas & GIS**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2F5F8F?style=for-the-badge&logo=arcgis&logoColor=white)
-![WebGIS](https://img.shields.io/badge/WebGIS-2F5F8F?style=for-the-badge&logo=esri&logoColor=white)
-
-</div>
-
-</td>
-</tr>
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=FFCB05&center=true&vCenter=true&width=500&lines=Desenvolvimento+%E2%9A%A1+Git+%7C+GitHub+%7C+VS+Code;Cloud+%E2%98%81%EF%B8%8F+Docker+%7C+Linux+%7C+AWS;Design+%F0%9F%8E%A8+Figma+%7C+ArcGIS+%7C+WebGIS;Full+Stack+%F0%9F%9A%80+Developer+Complete+Stack" alt="Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=FFCB05&center=true&vCenter=true&width=500&lines=Dev+%E2%9A%A1+Git+%7C+GitHub+%7C+VS+Code;Cloud+%E2%98%81%EF%B8%8F+Docker+%7C+Linux+%7C+AWS;Design+%F0%9F%8E%A8+Figma+%7C+ArcGIS+%7C+WebGIS;Full+Stack+%F0%9F%9A%80+Developer+Complete+Stack" alt="Tools" />
 </p>
 
 ---
 
-## 🏆 Principais Conquistas
-<div align="flex-start">
-
-🥇 **25+ Certificações** - Alura, Udemy, AWS, SENAI  
-🥈 **234 Contribuições** - Ativo no último ano  
-🥉 **Especialista AWS** - EC2, VPC, DynamoDB, Lightsail  
-🏅 **Metodologias Ágeis** - Scrum, Microservices, CI/CD  
-🎯 **Segurança & QA** - Cybersecurity, Quality Assurance  
-⭐ **Full Stack** - Frontend, Backend, Cloud, Data Analytics  
-
-</div>
-
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ferrari65&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Commits,Repositories,PullRequest" />
-</div>
-<br>
-
-
----
-
-## 📊 Estatísticas Gerais do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Ferrari65">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&icon_color=F59E0B&text_color=E2E8F0&border_color=FFCB05&custom_title=+Estatísticas+do+GitHub" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&icon_color=F59E0B&text_color=E2E8F0&border_color=FFCB05&custom_title=+GitHub+Stats" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Ferrari65">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05&custom_title=+Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05&custom_title=+Top+Languages" alt="Top Languages" />
   </a>
 </div>
 
-###  Destaques de 2024-2025
-- **234 contribuições** no último ano
-- **91% commits** na atividade
-- **9% pull requests e issues**
-- Contribuições consistentes especialmente em **Maio-Junho**
-- Ativo em **32+ repositórios**
+---
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
+</picture>
+</div>
 
 ---
-<br> 📞 Contato </br>
+
+<br> 📞 Contact </br>
 
 
 <div align="center">
@@ -188,24 +165,5 @@ Desenvolvedora Full Stack certificada com expertise em tecnologias modernas e pr
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmin.ferrari365@email.com)
 
 </div>
-
-##  Contribuições 
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ferrari65&style=for-the-badge&color=FFCB05" alt="Profile Views" />
-</div>
-
 
 
