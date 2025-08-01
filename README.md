@@ -137,12 +137,13 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
 
 <div align="center">
   <a href="https://github.com/Ferrari65">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&icon_color=F59E0B&text_color=E2E8F0&border_color=FFCB05&custom_title=GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&icon_color=F59E0B&text_color=E2E8F0&border_color=FFCB05&custom_title=GitHub%20Stats&rank_icon=github&cache_seconds=600" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Ferrari65">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&hide=html,css&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05&custom_title=Top%20Languages" alt="Top Languages" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&hide=html,css&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05&custom_title=Top%20Languages&cache_seconds=600" alt="Top Languages" />
   </a>
 </div>
+
 
 ---
 <div align="center">
