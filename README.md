@@ -157,12 +157,13 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
 
 <br> 📞 Contact </br>
 
-
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-pereira-ferrari-42ba22317/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasmin-ferrari.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmin.ferrari365@email.com)
+[![Alura](https://img.shields.io/badge/Alura-132E35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yODMuNiAxOTkuN2MtMjguOSAwLTQ1LjggMTYuNy00NS44IDQ1Ljd2MTQxLjdoLTg1LjhWMTk2LjFjMC02NS4xIDQ1LjctOTAuMSA5NS41LTkwLjFzODcuNyAyNC45IDg3LjcgOTAuMXYxNDUuM2gtODUuOHYtMTQxLjdjMC0yOS0xNi45LTQ1LjctNDUuOC00NS43em0xNjIuOCAyODguN2MtMjguOCAwLTQ1LjgtMTYuOC00NS44LTQ1LjdWMTk2LjFjMC02NS4yIDQ1LjctOTAuMSA5NS41LTkwLjFzODcuNiAyNC45IDg3LjYgOTAuMXYxNDUuM2gtODUuOHYtMTQxLjhjMC0yOC45LTE2LjktNDUuNy00NS44LTQ1LjdzLTQ1LjggMTYuOC00NS44IDQ1Ljd2MTQxLjhjMCAyOSAxNi45IDQ1LjcgNDUuOCA0NS43czQ1LjgtMTYuNyA0NS44LTQ1Ljd2LTE0MS44aDg1Ljd2MTQ1LjNjMCA2NS4xLTQ1LjcgOTAuMS05NS41IDkwLjF6Ii8+PC9zdmc+&logoColor=white)](https://cursos.alura.com.br/user/yasmin-ferrari0)
+
 
 </div>
 
