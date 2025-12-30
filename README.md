@@ -47,6 +47,8 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
 ## 🧩 Tech Stack
 
 <table width="100%" align="center">
+
+  <!-- FRONTEND -->
   <tr>
     <td align="center">
       <div align="left"><h3>Frontend</h3></div>
@@ -58,6 +60,7 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
+  <!-- BACKEND -->
   <tr>
     <td align="center">
       <div align="left"><h3>Backend & APIs</h3></div>
@@ -67,6 +70,7 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
+  <!-- METHODOLOGIES -->
   <tr>
     <td align="center">
       <div align="left"><h3>Methodologies</h3></div>
@@ -75,6 +79,7 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
+  <!-- CLOUD -->
   <tr>
     <td align="center">
       <div align="left"><h3>Cloud & DevOps</h3></div>
@@ -85,6 +90,7 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
+  <!-- DATA & ANALYTICS -->
   <tr>
     <td align="center">
       <div align="left"><h3>Data & Analytics</h3></div>
@@ -95,6 +101,7 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
+  <!-- SECURITY -->
   <tr>
     <td align="center">
       <div align="left"><h3>Security & Quality</h3></div>
@@ -104,6 +111,7 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
+  <!-- TOOLS -->
   <tr>
     <td align="center">
       <div align="left"><h3>Tools & GIS</h3></div>
@@ -117,6 +125,7 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
       <img src="https://img.shields.io/badge/WebGIS-1F6F8B?style=for-the-badge&logo=esri&logoColor=white" />
     </td>
   </tr>
+
 </table>
 
 <p align="center">
@@ -134,15 +143,14 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
   <a href="https://github.com/Ferrari65">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&bg_color=0D1117&title_color=FFCB05&icon_color=FFCB05&text_color=E2E8F0&border_color=FFCB05"
+      src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical"
       alt="GitHub Stats"
     />
   </a>
-
   <a href="https://github.com/Ferrari65">
     <img
       width="41%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical"
       alt="Top Languages"
     />
   </a>
