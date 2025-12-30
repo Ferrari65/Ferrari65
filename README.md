@@ -1,14 +1,18 @@
 # Hello! I'm Yasmin Ferrari 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=28&pause=1000&color=FFCB05&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+technology;Always+evolving;Creating+innovative+solutions" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=28&pause=1000&color=FFCB05&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Passionate+about+technology;Always+evolving;Creating+innovative+solutions"
+    alt="Typing SVG"
+  />
 </div>
 
 ---
 
-<img align="right" src="./img/neurocats_D.png" width="300" alt="Octocat"/>
+<img align="right" src="./img/neurocats_D.png" width="300" alt="Octocat" />
 
-Full Stack Developer with strong expertise in modern technologies and market-driven practices. I hold multiple certifications in development, cloud computing, cybersecurity, and agile methodologies.  
+Full Stack Developer with strong expertise in modern technologies and market-driven practices.  
+I hold multiple certifications in development, cloud computing, cybersecurity, and agile methodologies.  
 Currently pursuing a degree in **Systems Analysis and Development at Uninter**, constantly expanding my technical and strategic foundation.
 
 - 🔭 **Specialized in** modern web development and software architecture  
@@ -18,20 +22,19 @@ Currently pursuing a degree in **Systems Analysis and Development at Uninter**, 
 - ⚡ **Always** exploring new technologies and methodologies  
 - 🎓 **Academic Background:** Systems Analysis and Development – Uninter (in progress)
 
-<br clear="right"/>
+<br clear="right" />
 
 ---
 
 ## 🏆 Professional Highlights
 
-<div align="flex-start">
-
 🥇 **2nd Place – Grand Prix SENAI Innovation 2024**  
 Latin American competition in the **Industry 4.0** category with the project **EITRIZ!**, an industrial virtual assistant powered by AI.  
 In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Alexandre Gomes, we developed a solution capable of:
-- 📊 Generating production charts for smart monitoring
-- 🧠 Providing interactive training guided by AI
-- 🔎 Answering company-related queries using natural language
+
+- 📊 Generating production charts for smart monitoring  
+- 🧠 Providing interactive training guided by AI  
+- 🔎 Answering company-related queries using natural language  
 
 🥈 **234+ Contributions** – Active GitHub engagement over the past year  
 🥉 **25+ Certifications** – Alura, Udemy, AWS, SENAI  
@@ -39,15 +42,11 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
 🎯 **Agile Methodologies** – Scrum, Microservices, CI/CD  
 ⭐ **Full Stack Focus** – Frontend, Backend, Cloud, Data Analytics  
 
-</div>
-
 ---
 
 ## 🧩 Tech Stack
 
 <table width="100%" align="center">
-
-  <!-- FRONTEND -->
   <tr>
     <td align="center">
       <div align="left"><h3>Frontend</h3></div>
@@ -59,7 +58,6 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
-  <!-- BACKEND -->
   <tr>
     <td align="center">
       <div align="left"><h3>Backend & APIs</h3></div>
@@ -69,7 +67,6 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
-  <!-- METHODOLOGIES -->
   <tr>
     <td align="center">
       <div align="left"><h3>Methodologies</h3></div>
@@ -78,7 +75,6 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
-  <!-- CLOUD -->
   <tr>
     <td align="center">
       <div align="left"><h3>Cloud & DevOps</h3></div>
@@ -89,7 +85,6 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
-  <!-- DATA & ANALYTICS -->
   <tr>
     <td align="center">
       <div align="left"><h3>Data & Analytics</h3></div>
@@ -100,7 +95,6 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
-  <!-- SECURITY -->
   <tr>
     <td align="center">
       <div align="left"><h3>Security & Quality</h3></div>
@@ -110,7 +104,6 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
     </td>
   </tr>
 
-  <!-- TOOLS -->
   <tr>
     <td align="center">
       <div align="left"><h3>Tools & GIS</h3></div>
@@ -124,11 +117,13 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
       <img src="https://img.shields.io/badge/WebGIS-1F6F8B?style=for-the-badge&logo=esri&logoColor=white" />
     </td>
   </tr>
-
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=FFCB05&center=true&vCenter=true&width=500&lines=Dev+%E2%9A%A1+Git+%7C+GitHub+%7C+VS+Code;Cloud+%E2%98%81%EF%B8%8F+Docker+%7C+Linux+%7C+AWS;Design+%F0%9F%8E%A8+Figma+%7C+ArcGIS+%7C+WebGIS;Full+Stack+%F0%9F%9A%80+Developer+Complete+Stack" alt="Tools" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=FFCB05&center=true&vCenter=true&width=700&lines=Dev+%E2%9A%A1+Git+%7C+GitHub+%7C+VS+Code;Cloud+%E2%98%81%EF%B8%8F+Docker+%7C+Linux+%7C+AWS;Design+%F0%9F%8E%A8+Figma+%7C+ArcGIS+%7C+WebGIS;Full+Stack+%F0%9F%9A%80+Developer"
+    alt="Tools"
+  />
 </p>
 
 ---
@@ -137,26 +132,35 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
 
 <div align="center">
   <a href="https://github.com/Ferrari65">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFCB05&icon_color=F59E0B&text_color=E2E8F0&border_color=FFCB05&custom_title=GitHub%20Stats&rank_icon=github&cache_seconds=600" alt="GitHub Stats" />
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical&bg_color=0D1117&title_color=FFCB05&icon_color=FFCB05&text_color=E2E8F0&border_color=FFCB05"
+      alt="GitHub Stats"
+    />
   </a>
+
   <a href="https://github.com/Ferrari65">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&hide=html,css&hide_border=false&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05&custom_title=Top%20Languages&cache_seconds=600" alt="Top Languages" />
+    <img
+      width="41%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical&bg_color=0D1117&title_color=FFCB05&text_color=E2E8F0&border_color=FFCB05"
+      alt="Top Languages"
+    />
   </a>
 </div>
 
-
 ---
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ferrari65/Ferrari65/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
 
 ---
 
-<br> 📞 Contact </br>
+## 📞 Contact
 
 <div align="center">
 
@@ -164,7 +168,4 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasmin-ferrari.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmin.ferrari365@email.com)
 
-
 </div>
-
-
