@@ -137,23 +137,14 @@ In collaboration with Edney A. and Thaissa Domiciano, and guided by Professor Al
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ Most Important (For Recruiters)
 
 <div align="center">
-  <a href="https://github.com/Ferrari65">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=Ferrari65&show_icons=true&theme=radical"
-      alt="GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/Ferrari65">
-    <img
-      width="41%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari65&layout=compact&theme=radical"
-      alt="Top Languages"
-    />
-  </a>
+
+[![Yasmin Ferrari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferrari65&theme=dark&show_icons=true)](https://github.com/Ferrari65)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ferrari65&repo=Backend-gestao_acesso&theme=dark)](https://github.com/Ferrari65/Backend-gestao_acesso)
+
 </div>
 
 ---
